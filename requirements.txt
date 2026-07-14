@@ -1,3 +1,9 @@
 streamlit
-tensorflow - cpu
+tensorflow-cpu 
+pandas
 numpy
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
